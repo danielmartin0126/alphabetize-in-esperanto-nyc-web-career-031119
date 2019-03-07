@@ -1,5 +1,3 @@
-
-
 # Alphabetize in Esperanto
 
 ## Introduction
